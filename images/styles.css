@@ -1,0 +1,132 @@
+body{
+    width: 550px;
+    height: 750px;
+    margin: auto;
+    text-align: center;
+    background-color: whitesmoke;
+    border: 2px solid #0000000D;
+    
+    
+    
+}
+
+.hero{
+    background-color: #6943FF;
+    color: white;
+    padding-top: 33px;
+    width: 550px;
+    height: 285px;
+    border: none;
+
+}
+h1{
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 38px;
+    letter-spacing: -0.03em;
+    text-align: center;
+
+}
+input{
+    width: 117px;
+    height: 83px;
+    top: 101px;
+    left: 217px;
+    border-radius: 5px;
+    border: 2px solid #B295FF;
+    font-family: Inter;
+    font-size: 58px;
+    font-weight: 800;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+    background-color: #6943FF;
+    margin-bottom: 27px;
+
+
+}
+
+button {
+    width: 117px;
+    height: 42px;
+    
+    padding: 9px 27.5px 9px 27.5px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 2px 0px #0000000D;
+    background-color: #FFFFFF;
+    color: #3D3D3D;
+    
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+
+}
+
+.content{
+    background-color: #273549;
+    width: 500px;
+    height: 108px;
+    border-radius: 5px 0px 0px 0px;
+    gap: 19px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.content1{
+    background-color: #273549;
+    width: 500px;
+    height: 108px;
+    border-radius: 5px 0px 0px 0px;
+    gap: 19px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.label{
+    width: 346px;
+    height: 25px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #CCC1FF;
+    
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+}
+
+
+
+.content-two{
+    width: 346px;
+    height: 25px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+
+}
+
+.container1{
+    background-color: #CCC1FF;
+    height: 750px;
+}
